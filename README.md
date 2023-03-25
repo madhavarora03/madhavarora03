@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Madhav Arora.
 - 🔭 I am a freshman at <a href="http://www.nsut.ac.in/">Netaji Subhas University of Technology</a>, India.
-- ⚡ In my free time, I solve problems on <a href="https://auth.geeksforgeeks.org/user/eragonc3gc/practice">GeeksforGeeks</a>, <a href="https://www.codechef.com/users/madhavarora03">CodeChef</a> and <a href="https://codeforces.com/profile/madhavarora03">CODEFORCES</a> and read tech articles.
+- ⚡ In my free time, I solve problems on <a href="https://www.codechef.com/users/madhavarora03">CodeChef</a> and read tech articles.
 - 🌱 I’m currently learning Data Structures and Algorithms in C++.
 - 💞️ I’m looking to collaborate on any open source project in C/C++ language and am willing to learn new technologies in the process.
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Madhav_Arora-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-arora-a6437824b/)
